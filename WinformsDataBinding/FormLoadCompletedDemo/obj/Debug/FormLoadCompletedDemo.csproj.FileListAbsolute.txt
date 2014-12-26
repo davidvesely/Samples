@@ -1,0 +1,9 @@
+D:\Documents\GitHub\MyExamples\WinformsDataBinding\FormLoadCompletedDemo\bin\Debug\FormLoadCompletedDemo.exe
+D:\Documents\GitHub\MyExamples\WinformsDataBinding\FormLoadCompletedDemo\bin\Debug\FormLoadCompletedDemo.pdb
+D:\Documents\GitHub\MyExamples\WinformsDataBinding\FormLoadCompletedDemo\obj\Debug\FormLoadCompletedDemo.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\MyExamples\WinformsDataBinding\FormLoadCompletedDemo\obj\Debug\FormLoadCompletedDemo.ChildForm.resources
+D:\Documents\GitHub\MyExamples\WinformsDataBinding\FormLoadCompletedDemo\obj\Debug\FormLoadCompletedDemo.ChildFormUsingBase.resources
+D:\Documents\GitHub\MyExamples\WinformsDataBinding\FormLoadCompletedDemo\obj\Debug\FormLoadCompletedDemo.MainForm.resources
+D:\Documents\GitHub\MyExamples\WinformsDataBinding\FormLoadCompletedDemo\obj\Debug\FormLoadCompletedDemo.csproj.GenerateResource.Cache
+D:\Documents\GitHub\MyExamples\WinformsDataBinding\FormLoadCompletedDemo\obj\Debug\FormLoadCompletedDemo.exe
+D:\Documents\GitHub\MyExamples\WinformsDataBinding\FormLoadCompletedDemo\obj\Debug\FormLoadCompletedDemo.pdb

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmployeeBE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EmployeeBE>
+    <StateCode>UP</StateCode>
+    <FirstName>Surinder</FirstName>
+    <LastName>Sharma</LastName>
+    <EmpId>125</EmpId>
+    <EmpDetails>
+      <EmpDetails>
+        <ProjectCode>P28</ProjectCode>
+        <ProjectManager>Bob Houghton</ProjectManager>
+        <ProjectName>App Development</ProjectName>
+      </EmpDetails>
+      <EmpDetails>
+        <ProjectCode>P54</ProjectCode>
+        <ProjectManager>DAvid askjdaksl</ProjectManager>
+        <ProjectName>adasdasdsa</ProjectName>
+      </EmpDetails>
+    </EmpDetails>
+  </EmployeeBE>
+  <EmployeeBE>
+    <StateCode>MP</StateCode>
+    <FirstName>Daisy</FirstName>
+    <LastName>Krauss</LastName>
+    <EmpId>128</EmpId>
+    <EmpDetails>
+      <EmpDetails>
+        <ProjectCode>P78</ProjectCode>
+        <ProjectManager>Pete Taylor</ProjectManager>
+        <ProjectName>Portal Maintenance</ProjectName>
+      </EmpDetails>
+    </EmpDetails>
+  </EmployeeBE>
+  <EmployeeBE>
+    <StateCode>WB</StateCode>
+    <FirstName>Susan</FirstName>
+    <LastName>Hendrickson</LastName>
+    <EmpId>123</EmpId>
+    <EmpDetails>
+      <EmpDetails>
+        <ProjectCode>P38</ProjectCode>
+        <ProjectManager>Sam Anderson</ProjectManager>
+        <ProjectName>Data Migration</ProjectName>
+      </EmpDetails>
+      <EmpDetails>
+        <ProjectCode>P93</ProjectCode>
+        <ProjectManager>John Arthur</ProjectManager>
+        <ProjectName>Employee Payroll</ProjectName>
+      </EmpDetails>
+    </EmpDetails>
+  </EmployeeBE>
+  <EmployeeBE>
+    <StateCode>UP</StateCode>
+    <FirstName>asdas</FirstName>
+    <LastName>asadsas</LastName>
+    <EmpId>1212</EmpId>
+    <EmpDetails>
+      <EmpDetails>
+        <ProjectCode>asdas</ProjectCode>
+        <ProjectManager>assdasd</ProjectManager>
+        <ProjectName>adassad</ProjectName>
+      </EmpDetails>
+    </EmpDetails>
+  </EmployeeBE>
+  <EmployeeBE>
+    <StateCode>CZ</StateCode>
+    <FirstName>dadada</FirstName>
+    <LastName>padasd;a</LastName>
+    <EmpId>321</EmpId>
+    <EmpDetails />
+  </EmployeeBE>
+</ArrayOfEmployeeBE>

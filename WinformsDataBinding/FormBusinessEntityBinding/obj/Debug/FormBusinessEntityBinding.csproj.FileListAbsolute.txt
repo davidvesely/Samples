@@ -1,0 +1,9 @@
+D:\Documents\GitHub\MyExamples\WinformsDataBinding\FormBusinessEntityBinding\bin\Debug\FormBusinessEntityBinding.exe.config
+D:\Documents\GitHub\MyExamples\WinformsDataBinding\FormBusinessEntityBinding\bin\Debug\FormBusinessEntityBinding.exe
+D:\Documents\GitHub\MyExamples\WinformsDataBinding\FormBusinessEntityBinding\bin\Debug\FormBusinessEntityBinding.pdb
+D:\Documents\GitHub\MyExamples\WinformsDataBinding\FormBusinessEntityBinding\obj\Debug\FormBusinessEntityBinding.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\MyExamples\WinformsDataBinding\FormBusinessEntityBinding\obj\Debug\FormBusinessEntityBinding.fmrEmployee.resources
+D:\Documents\GitHub\MyExamples\WinformsDataBinding\FormBusinessEntityBinding\obj\Debug\FormBusinessEntityBinding.Properties.Resources.resources
+D:\Documents\GitHub\MyExamples\WinformsDataBinding\FormBusinessEntityBinding\obj\Debug\FormBusinessEntityBinding.csproj.GenerateResource.Cache
+D:\Documents\GitHub\MyExamples\WinformsDataBinding\FormBusinessEntityBinding\obj\Debug\FormBusinessEntityBinding.exe
+D:\Documents\GitHub\MyExamples\WinformsDataBinding\FormBusinessEntityBinding\obj\Debug\FormBusinessEntityBinding.pdb
